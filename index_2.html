@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 11_pt.2_KJames</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+    <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+<!--HOME-->   
+    <div data-role="page" id="home">
+       <header data-role="header">
+       <h1>Directory</h1>
+       <form class="ui-filterable">
+           <input id="autocomplete-input" data-type="search" placeholder="Find Employee...">
+       </form>
+       <ul id="autocomplete" data-role="list-view" data-filter="true" data-inset="true" data-input="#autocomplete-input"></ul>
+       </header>
+       <section data-role="content">
+           <h2>Welcome to Directory</h2>
+           <p>This is a sample app that demonstrates how to build applications with jQuery Mobile</p>
+       </section>
+    </div>
+    
+</body>
+</html>
