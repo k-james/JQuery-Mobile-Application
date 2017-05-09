@@ -40,16 +40,3 @@ $(document).ready(function () {
 });
 
 
-//$(document).ready(function () {
-//$(document).on('pagebeforeshow', '#employeePage', function () {
-//    $.getJSON("json.js", function (data) {
-//        var employee = data.item;
-//        //console.log(employee);
-//                $('#employee').text(employees.name);
-//        
-//                //$('#employee').listview().listview('refresh');
-//            });
-//        });
-//    });
-//});
-//
