@@ -7,7 +7,7 @@
         "officeNumber": "858-111-1111",
         "cellNumber": "619-111-1111",
         "email": "amy.jones@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
         
     },
     {
@@ -18,7 +18,7 @@
         "officeNumber": "858-222-2222",
         "cellNumber": "619-222-2222",
         "email": "eugene.lee@gmail.com",
-        "reportsTo": ""   
+        "reportsTo": "1012"
     },
     {
         "id": "1003",
@@ -28,7 +28,7 @@
         "officeNumber": "858-333-3333",
         "cellNumber": "619-333-3333",
         "email": "gary.donovan@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1004",
@@ -38,7 +38,7 @@
         "officeNumber": "858-444-4444",
         "cellNumber": "619-444-4444",
         "email": "james.king@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1005",
@@ -48,7 +48,7 @@
         "officeNumber": "858-555-5555",
         "cellNumber": "619-555-5555",
         "email": "john.williams@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1006",
@@ -58,7 +58,7 @@
         "officeNumber": "858-666-6666",
         "cellNumber": "619-666-6666",
         "email": "julie.taylor@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1007",
@@ -68,7 +68,7 @@
         "officeNumber": "858-777-7777",
         "cellNumber": "619-777-7777",
         "email": "kathleen.byrne@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1008",
@@ -78,7 +78,7 @@
         "officeNumber": "858-888-8888",
         "cellNumber": "619-888-8888",
         "email": "lisa.wong@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1009",
@@ -88,7 +88,7 @@
         "officeNumber": "858-999-9999",
         "cellNumber": "619-999-9999",
         "email": "paul.jones@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1010",
@@ -98,7 +98,7 @@
         "officeNumber": "858-101-1010",
         "cellNumber": "619-101-1010",
         "email": "paula.gates@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1011",
@@ -108,7 +108,7 @@
         "officeNumber": "858-011-0110",
         "cellNumber": "619-011-0110",
         "email": "ray.moore@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1012"
     },
     {
         "id": "1012",
@@ -118,7 +118,7 @@
         "officeNumber": "858-012-0120",
         "cellNumber": "619-012-0120",
         "email": "steven.wells@gmail.com",
-        "reportsTo": ""
+        "reportsTo": "1001"
     }
    
 ]}
